@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ehab Galal Abdo</h1>
 <h2 align="center"> Flutter developer</h2>
 
+ 
+
 - 🌱 I’m currently learning **Flutter Development**
 
 - 👯 I’m looking to collaborate on **Elmad3ka Team**
 
 - 📫 How to reach me **ehabgalal1312@gmail.com**
+
+- 🚀 Passionate about building intelligent applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
